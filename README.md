@@ -1,5 +1,7 @@
 # Graph-Polynomials
 
+Graph polynomials play a vital role in algebraic graph theory. Below are two of such polynomials namely independence and domination polynomial.
+
 ## **Independence polynomial** 
 
 To delve into the concept of independence polynomial, it is required to go through the notion of independent sets.  
