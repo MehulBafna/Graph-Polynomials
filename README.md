@@ -1,6 +1,6 @@
 # Graph-Polynomials
 
-Graph polynomials play a vital role in algebraic graph theory. Below are two of such polynomials namely independence and domination polynomial.
+Graph polynomials play a vital role in algebraic graph theory. Below two of such polynomials are described namely independence and domination polynomial.
 
 ## **Independence polynomial** 
 
