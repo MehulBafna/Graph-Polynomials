@@ -1,6 +1,6 @@
 # Graph-Polynomials
 
-##**Independence polynomial** 
+## **Independence polynomial** 
 
 To delve into the concept of independence polynomial, it is required to go through the notion of independent sets.  
 
@@ -9,7 +9,7 @@ The independent set with the maximum cardinality is defined as the maximum indep
 
 For a given graph G = (V,E), independence polynomial in terms of independent sets and independence number is defined as I(G,x) = ∑ m<sub>j</sub>(G)x<sup>j</sup> from j = 0 to α(G), and the coefficients m<sub>j</sub>(G) gives the total number of independent sets with cardinality j, ∀ j ∈{0,···,α(G)}
 
-##**Domination polynomial** 
+## **Domination polynomial** 
 
 Below are the required notations for domination polynomial. 
 
